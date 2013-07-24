@@ -5,6 +5,7 @@ def Method1():
 	print "Changed on master"
 	print "Another change on master"
 	print "Change Z1"
+	print "Change Z2"
 	
 def Method2():
 	print "Goodbye"
