@@ -8,6 +8,7 @@ def Method1():
 def Method2():
 	print "Goodbye"
 	print "Change A"
+	print "Change B"
 	
 def Method3():
 	print "Later"
