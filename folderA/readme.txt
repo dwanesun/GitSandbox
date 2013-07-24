@@ -7,7 +7,8 @@ def Method1():
 	
 def Method2():
 	print "Goodbye"
-
+	print "Change A"
+	
 def Method3():
 	print "Later"
 	print "Changed on TestBranch2"
