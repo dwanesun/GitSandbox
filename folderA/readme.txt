@@ -1,3 +1,11 @@
 In folder A
 
-Change 1 on master
+def Method1():
+	print "Hello"
+	
+def Method2():
+	print "Goodbye"
+
+def Method3():
+	print "Later"
+	
