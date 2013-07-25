@@ -13,11 +13,10 @@ def Method2():
 	print "Change B"
 	print "Change X1"
 	print "Change X2"
+	print "c"
 	
 def Method3():
 	print "Later"
 	print "Changed on TestBranch2"
 	print "a"
-	print "b"
 	print "aa"
-	
