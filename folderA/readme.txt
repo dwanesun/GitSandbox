@@ -20,4 +20,5 @@ def Method3():
 	print "a"
 	print "b"
 	print "aa"
+	print "bb"
 	
