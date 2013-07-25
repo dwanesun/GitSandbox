@@ -14,6 +14,7 @@ def Method2():
 	print "Change X1"
 	print "Change X2"
 	print "c"
+	print "d"
 	
 def Method3():
 	print "Later"
